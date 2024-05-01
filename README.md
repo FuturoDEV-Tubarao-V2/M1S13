@@ -3,10 +3,10 @@
 O contexto permite que o componente pai disponibilize algumas informações para qualquer componente na árvore abaixo dele, não importa quão profundas, sem passá-las explicitamente por adereços
 
 ### Prop Drilling
-![Prop Drilling](./public/props-drilling.png)
+![Prop Drilling](./aula1-contextos/public/props-drilling.png)
 
 ### Context API
-![Context API](./public/context-api.png)
+![Context API](./aula1-contextos/public/context-api.png)
 
 
 
